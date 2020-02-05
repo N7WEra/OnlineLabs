@@ -1,53 +1,57 @@
 # OnlineLabs
 
 
-XSS:
+### XSS
 http://prompt.ml/
+
 https://portswigger.net/web-security/cross-site-scripting
 
-CORS:
+### CORS:
 https://portswigger.net/web-security/cors
 
-Clickjaking:
+### Clickjaking:
 https://portswigger.net/web-security/clickjacking
 
-WebSockets:
+### WebSockets:
 https://portswigger.net/web-security/websockets
+
 https://ws.digi.ninja/
 
-SQLi:
+### SQLi:
 https://portswigger.net/web-security/sql-injection
 
-CSRF:
+### CSRF:
 https://portswigger.net/web-security/csrf
 
-XXE:
+### XXE:
 https://portswigger.net/web-security/xxe
 
-Access Control:
+### Access Control:
 https://portswigger.net/web-security/access-control
+
 https://authlab.digi.ninja/
 
-SSRF:
+### SSRF:
 https://portswigger.net/web-security/ssrf
 
-HTTP Request Smuggling:
+### HTTP Request Smuggling:
 https://portswigger.net/web-security/request-smuggling
+
 https://blog.zeddyu.info/2019/12/08/HTTP-Smuggling-en/ 
 
-OS Command injection:
+### OS Command injection:
 https://portswigger.net/web-security/os-command-injection
 
 
-Directory traversal:
+### Directory traversal:
 https://portswigger.net/web-security/file-path-traversal
 
-Zone transfer:
+### Zone transfer:
 https://digi.ninja/projects/zonetransferme.php
 
-LDAP:
+### LDAP:
 https://vulndap.digi.ninja/
 
-Web cache poisoning:
+### Web cache poisoning:
 https://poison.digi.ninja/
 
