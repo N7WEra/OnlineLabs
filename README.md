@@ -55,3 +55,5 @@ https://vulndap.digi.ninja/
 ### Web cache poisoning:
 https://poison.digi.ninja/
 
+### GraphQL
+https://graphqlab.digi.ninja/
