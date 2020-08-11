@@ -55,5 +55,8 @@ https://vulndap.digi.ninja/
 ### Web cache poisoning:
 https://poison.digi.ninja/
 
+### WiFi:
+http://linux-basics-bootcamp-pa-beta.ue.r.appspot.com/course/101
+
 ### GraphQL
 https://graphqlab.digi.ninja/
