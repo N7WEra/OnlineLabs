@@ -25,6 +25,7 @@ https://portswigger.net/web-security/csrf
 
 ### XXE:
 https://portswigger.net/web-security/xxe
+https://gosecure.github.io/xxe-workshop/#0
 
 ### Access Control:
 https://portswigger.net/web-security/access-control
